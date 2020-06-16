@@ -1,0 +1,2 @@
+Olá! Anteriormente, estabelecemos um fluxo de entrada concreto a partir de um arquivo. Nesta aula, nosso foco será o fluxo de saída.
+Anteriormente, havíamos criado a classe TesteEscrita, onde estabelecemos uma entrada de texto, análoga à leitura de código.
